@@ -7,10 +7,10 @@ Go to the(WAMP taskbar icon) PHP-> PHP Extention and tick on the php_curl.
 DON'T FORGOT TO RESTART APACHE SERVICE.
 */
 	// Change your variables
-	$token = '468215954-hSd4aYlgwC0osbmClWQGrhkKO3LcqEDxhPWsc9Qz';
-$token_secret = 'RUIFDnezgQbp0DUOglxl2XTgRjMLji7OCna7cYz2K6Go8';
-$consumer_key = 'idhZA5QTJlDZMCzpsG9SmFQkE';
-$consumer_secret = 'LdPgOduv8TIo2LGddP38trA2DsveWEWZTgRkdnj1iE5fhsK9R0';
+$token = 'YOUR ACCESS TOKEN KEY';
+$token_secret = 'YOUR TOKEN SECRET KEY';
+$consumer_key = 'YOUR API KEY';
+$consumer_secret = 'YOUR API SECRET KEY';
 
 $host = 'api.twitter.com';
 $method = 'GET';
